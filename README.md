@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![Developer GIF](https://media.giphy.com/media/lXHwJv89PvdN200Anr/giphy.gif)
+
+### My GitHub Stats ###
+![Sakshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshic0des&hide=contribs,prs)
