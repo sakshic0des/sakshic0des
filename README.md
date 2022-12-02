@@ -1,3 +1,5 @@
+<img src="https://github.com/sakshic0des/sakshic0des/blob/main/Github-banner.jpg" alt="banner that says Sakshi-Web Developer">
+
 ### Hi there 👋
 
 
